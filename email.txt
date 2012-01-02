@@ -2,7 +2,7 @@ Hi former 106A-ers,
 
 Congratulations on completing CS106A! Over the past ten weeks, you've tasted the creativity and problem-solving in computer science.
 
-As section leaders, we've compiled a webpage covering opportunities, myths, and resources surrounding computer science, regardless of major. We explore how to use CS to address major social issues and solve problems across disciplines (no need to "code in a cubicle all day"). We also discuss imposter syndrome and the myth that CS is all about programming. Finally, we link to handy resources and explain different areas and courses within CS.
+As section leaders, we've compiled a webpage covering opportunities, myths, and resources surrounding computer science, regardless of major. We explore how to use CS to address major social issues and solve problems across disciplines (no need to "code in a cubicle all day"). We also discuss impostor syndrome and the myth that CS is all about programming. Finally, we link to handy resources and explain different areas and courses within CS.
 
 Check it out! (__LINK__) Feel free to email us at any time with questions.
 
